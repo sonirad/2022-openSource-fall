@@ -14,3 +14,8 @@ vim 에디터
    - 저장하기(write) --> :w
    - 나오기(quit) --> :q
    - 저장하기 나오기 --> :wq
+
+day03
+깃 버전 관리
+깃과 깃허브 차이점
+vcs, version control system..
