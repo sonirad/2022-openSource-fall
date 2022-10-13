@@ -58,3 +58,11 @@ vcs, version control system..
   - git commit 하고 엔터친 후, abc 입력
  - .gitignore파일의 역할
  - 브랜치는 언제 만드는가?
+ - 브랜치 관련 명령어
+  - 현제 새엉된 브랜치 목록 확인하기 : git branch
+  - abc 라는 이름을 가진 브랜치 만들기 : git branch abc
+  - abc 브랜치로 이동해서 작업 할 준비하기 : git checkout abc / git switch abc
+  - abc 라는 이름을 가진 브랜치 만들고, 해당 브랜치로 이동해서 작업할 준비하기  git checkout -b abc
+ - a 라는 브랜치를 b 라는 브랜치로 병합할 때,
+  - b 라는 브랜치 체크아웃 하기
+  - git merge a
