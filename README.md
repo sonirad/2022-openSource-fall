@@ -86,3 +86,14 @@
 > * pick -> reword
 >  * 입력모드로 바뀌 수정하고 싶은 커밋의 pick를 reword로 바꿔씀
 >  * 다시 명령모드로 바꿔 저장하고 나감
+
+# day10
+> 1. 중간 커밋을 변경할 때 쓰는 명령어
+>  * git commit --amend
+>   * git rebase --interative 기능에 포함
+> 2. 커밋 수정 리베이스 명령어 종류
+>  * edit
+>  * amend
+>  * squash
+>  * fixup
+>  * exec
