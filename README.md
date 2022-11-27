@@ -97,3 +97,14 @@
 >  * squash
 >  * fixup
 >  * exec
+
+# day11
+> 1. git fork에 대하여
+>  * 정의 : 다른 사람의 github repository에서 내가 어떤 부분을 수정하거나 추가 기능을 넣고 싶을 때 해당 respository를 내 Github repository로 그대로 복제하는 기능
+>  * fork한 저장소는 원본 저장소와 연동되어 있다
+> 2. git rebase 명령어에 대하여
+>  * squash : 쓴 커밋 위에 있는 커밋과 병합
+>  * reword : 커밋 메시지 수정
+> 3. git pull에 대하여
+>  * pull 정의 : 원격 저장소에 있는 프로젝트 내용을 가져오는 명령어
+>  * git upstream : origin
